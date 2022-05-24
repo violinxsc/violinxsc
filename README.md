@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @violinxsc
-- 👀 I’m interested in python, nodejs, android, java.
-- 🌱 I’m currently learning python, nodejs, android.
+- 👀 I’m interested in python, nodejs, android, java, golang and so on.
+- 🌱 I’m currently learning python, nodejs, golang.
 - 💞️ I’m looking to collaborate on python, nodejs, android.
 - 📫 How to reach me ...
 
